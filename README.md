@@ -4,6 +4,8 @@
 
 An interactive Camelot wheel for DJs, for preparing sets and checking key compatibility during a live set.
 
+![Harmonic Flow 1.2 Beta screenshot](CapturaHarmonic.PNG)
+
 Select a key on the wheel to highlight compatible keys. The side panels show the selected key and its details at a glance.
 
 ## Before the set
