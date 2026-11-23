@@ -2,6 +2,8 @@
 
 **Version 1.2 Beta · Windows**
 
+[Download for Windows](https://github.com/RoniMnomic/Harmonic-Flow/releases/download/v1.2.0-beta/HarmonicFlow_1.2_Beta_Setup.exe) · [Release notes](https://github.com/RoniMnomic/Harmonic-Flow/releases/tag/v1.2.0-beta)
+
 An interactive Camelot wheel for DJs, for preparing sets and checking key compatibility during a live set.
 
 ![Harmonic Flow 1.2 Beta screenshot](CapturaHarmonic.PNG)
