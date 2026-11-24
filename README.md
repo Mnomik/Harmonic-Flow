@@ -24,4 +24,4 @@ Additional interface languages are on the way.
 
 Harmonic Flow is licensed under the GNU General Public License, version 3 or any later version (`GPL-3.0-or-later`). See [LICENSE](LICENSE) for the full text.
 
-Developed by [Mnomic](https://github.com/Mnomik).
+Developed by [Mnomik](https://github.com/Mnomik).
