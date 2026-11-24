@@ -2,7 +2,7 @@
 
 **Version 1.2 Beta · Windows**
 
-[Download for Windows](https://github.com/RoniMnomic/Harmonic-Flow/releases/download/v1.2.0-beta/HarmonicFlow_1.2_Beta_Setup.exe) · [Release notes](https://github.com/RoniMnomic/Harmonic-Flow/releases/tag/v1.2.0-beta)
+[Download for Windows](https://github.com/Mnomik/Harmonic-Flow/releases/download/v1.2.0-beta/HarmonicFlow_1.2_Beta_Setup.exe) · [Release notes](https://github.com/Mnomik/Harmonic-Flow/releases/tag/v1.2.0-beta)
 
 An interactive Camelot wheel for DJs, for preparing sets and checking key compatibility during a live set.
 
@@ -24,4 +24,4 @@ Additional interface languages are on the way.
 
 Harmonic Flow is licensed under the GNU General Public License, version 3 or any later version (`GPL-3.0-or-later`). See [LICENSE](LICENSE) for the full text.
 
-Developed by [Mnomic](https://github.com/RoniMnomic).
+Developed by [Mnomic](https://github.com/Mnomik).
